@@ -22,7 +22,7 @@ return array(
 	'modules'=>array(
         'admin',
         'srbac'=> array(
-            'userclass'=>'Users', //default: User //ikut nama class
+           'userclass'=>'Users', //default: User //ikut nama class
             'userid'=>'id', //default: userid //ikut primary key
             'username'=>'username', //default:username
             'delimeter'=>'@', //default:-
