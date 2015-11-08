@@ -1,2 +1,0 @@
-# servman
-yii servman
